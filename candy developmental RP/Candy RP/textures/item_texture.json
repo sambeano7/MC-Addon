@@ -1,0 +1,9 @@
+{
+   "resource_pack_name": "Candy",
+   "texture_data": {
+      "mm": {
+         "textures": "textures/items/candy"
+      }
+   },
+   "texture_name": "atlas.items"
+}
