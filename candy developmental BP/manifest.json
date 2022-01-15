@@ -1,8 +1,8 @@
 {
     "format_version": 2,
     "header": {
-        "description": "M&M resource pack",
-        "name": "M&M Item Filter Filler Pack",
+        "description": "Candy resource pack",
+        "name": "Candy Item Filter Filler Pack",
         "uuid": "fbd6e06d-b3a8-4374-bd84-5b661409d9bf",
         "version": [
             0,
@@ -17,7 +17,7 @@
     },
     "modules": [
         {
-            "description": "M&M resource pack",
+            "description": "Candy resource pack",
             "type": "data",
             "uuid": "b1bc3898-5d38-4447-b24a-6e3b616b9538",
             "version": [
