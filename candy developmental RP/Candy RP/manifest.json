@@ -1,0 +1,30 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Candy resource pack",
+        "name": "Candy Item Filter Filler Pack",
+        "uuid": "b3c42295-bd5a-403b-922e-1a2295154ac1",
+        "version": [
+            0,
+            0,
+            1
+        ],
+        "min_engine_version": [
+            1,
+            18,
+            1
+        ]
+    },
+    "modules": [
+        {
+            "description": "Candy resource pack",
+            "type": "resources",
+            "uuid": "76c8e7dd-fc13-4909-877c-4e75e5f947b6",
+            "version": [
+                0,
+                0,
+                1
+            ]
+        }
+    ]
+}
