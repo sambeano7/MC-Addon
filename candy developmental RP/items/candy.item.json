@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "description": {
+            "identifier": "filter:candy",
+            "category": "items"
+        },
+        "components": {
+            "minecraft:icon": "candy",
+            "minecraft:render_offsets": "apple"
+        }
+    }
+}
